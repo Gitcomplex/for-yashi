@@ -1,0 +1,7 @@
+# original full-resolution photos stay off the public repo
+*.jpeg
+*.jpg
+*.png
+
+# working copy; index.html is the published page
+for-yashi.html
